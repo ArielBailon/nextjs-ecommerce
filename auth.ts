@@ -76,9 +76,10 @@ export const config = {
             data: { name: token.name },
           });
         }
+
       }
-      return token
-    }
+      return token;
+    },
   },
 };
 
